@@ -10,3 +10,8 @@ while(Number(result) != randomNumber) {
 }
 
 alert('Parabéns! Você adivinhou o número em ' + xAttempts + ' tentativas')
+
+
+/*
+Aplicação inicial de programa de adivinhação de número de 0 a 10
+*/

@@ -1,3 +1,8 @@
+/*
+Aplicação de menu com interação com usuário:
+*/
+
+
 let options;
 
 let items = []
@@ -27,7 +32,4 @@ switch(options) {
         alert('opção invalida')        
     }
 }
-
-
-
 

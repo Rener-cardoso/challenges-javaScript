@@ -1,3 +1,8 @@
+/*
+criando mensagem com somente nome de pacientes de um determinado array:
+*/
+
+
 const patients = [
     {
         name: 'Alexandra',
@@ -26,4 +31,4 @@ for(let patient of patients) {
     patientsNames.push(patient.name)
 }
 
-console.log(patientsNames)
+alert(patientsNames)

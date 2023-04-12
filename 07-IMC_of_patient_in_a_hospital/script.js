@@ -1,3 +1,9 @@
+/*
+Descobrindo o imc de cada paciente atravez de uma função:
+*/
+
+
+
 const patients = [
     {
         name: 'Alexandra',
